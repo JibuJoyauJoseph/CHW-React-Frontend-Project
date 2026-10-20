@@ -1,0 +1,122 @@
+[
+  {
+    "id": "USR-001",
+    "email": "admin@chw-demo.rw",
+    "name": "System Administrator",
+    "role": "system_admin",
+    "province_id": null,
+    "district_id": null,
+    "sector_id": null,
+    "facility_id": null,
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-002",
+    "email": "national@chw-demo.rw",
+    "name": "National Health Administrator",
+    "role": "national_admin",
+    "province_id": null,
+    "district_id": null,
+    "sector_id": null,
+    "facility_id": null,
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-003",
+    "email": "province@chw-demo.rw",
+    "name": "Provincial Health Officer",
+    "role": "provincial_officer",
+    "province_id": "P-01",
+    "district_id": null,
+    "sector_id": null,
+    "facility_id": null,
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-004",
+    "email": "district@chw-demo.rw",
+    "name": "District Health Officer",
+    "role": "district_officer",
+    "province_id": "P-01",
+    "district_id": "D-01",
+    "sector_id": null,
+    "facility_id": null,
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-005",
+    "email": "supervisor@chw-demo.rw",
+    "name": "Sector Health Supervisor",
+    "role": "sector_supervisor",
+    "province_id": "P-01",
+    "district_id": "D-01",
+    "sector_id": "S-01-01",
+    "facility_id": null,
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-006",
+    "email": "chw@chw-demo.rw",
+    "name": "Aline Uwase",
+    "role": "chw",
+    "province_id": "P-01",
+    "district_id": "D-01",
+    "sector_id": "S-01-01",
+    "facility_id": "FAC-001",
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-007",
+    "email": "clerk@chw-demo.rw",
+    "name": "Data Entry Officer",
+    "role": "data_clerk",
+    "province_id": "P-01",
+    "district_id": "D-01",
+    "sector_id": null,
+    "facility_id": null,
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-008",
+    "email": "me@chw-demo.rw",
+    "name": "Monitoring & Evaluation Officer",
+    "role": "me_officer",
+    "province_id": null,
+    "district_id": null,
+    "sector_id": null,
+    "facility_id": null,
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-009",
+    "email": "auditor@chw-demo.rw",
+    "name": "System Auditor",
+    "role": "auditor",
+    "province_id": null,
+    "district_id": null,
+    "sector_id": null,
+    "facility_id": null,
+    "status": "active",
+    "password": "Demo@123"
+  },
+  {
+    "id": "USR-010",
+    "email": "facility@chw-demo.rw",
+    "name": "Facility Staff",
+    "role": "facility_staff",
+    "province_id": "P-01",
+    "district_id": "D-01",
+    "sector_id": "S-01-01",
+    "facility_id": "FAC-001",
+    "status": "active",
+    "password": "Demo@123"
+  }
+]

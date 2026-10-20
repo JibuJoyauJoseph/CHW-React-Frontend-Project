@@ -1,0 +1,52 @@
+[
+  {
+    "id": "D-01",
+    "province_id": "P-01",
+    "name": "Gasabo"
+  },
+  {
+    "id": "D-02",
+    "province_id": "P-01",
+    "name": "Kicukiro"
+  },
+  {
+    "id": "D-03",
+    "province_id": "P-02",
+    "name": "Musanze"
+  },
+  {
+    "id": "D-04",
+    "province_id": "P-02",
+    "name": "Gicumbi"
+  },
+  {
+    "id": "D-05",
+    "province_id": "P-03",
+    "name": "Huye"
+  },
+  {
+    "id": "D-06",
+    "province_id": "P-03",
+    "name": "Muhanga"
+  },
+  {
+    "id": "D-07",
+    "province_id": "P-04",
+    "name": "Rwamagana"
+  },
+  {
+    "id": "D-08",
+    "province_id": "P-04",
+    "name": "Nyagatare"
+  },
+  {
+    "id": "D-09",
+    "province_id": "P-05",
+    "name": "Rubavu"
+  },
+  {
+    "id": "D-10",
+    "province_id": "P-05",
+    "name": "Rusizi"
+  }
+]

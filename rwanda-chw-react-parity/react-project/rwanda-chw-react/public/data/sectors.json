@@ -1,0 +1,152 @@
+[
+  {
+    "id": "S-01-01",
+    "district_id": "D-01",
+    "name": "Kimironko"
+  },
+  {
+    "id": "S-01-02",
+    "district_id": "D-01",
+    "name": "Remera"
+  },
+  {
+    "id": "S-01-03",
+    "district_id": "D-01",
+    "name": "Kacyiru"
+  },
+  {
+    "id": "S-02-01",
+    "district_id": "D-02",
+    "name": "Nyarugenge"
+  },
+  {
+    "id": "S-02-02",
+    "district_id": "D-02",
+    "name": "Gikondo"
+  },
+  {
+    "id": "S-02-03",
+    "district_id": "D-02",
+    "name": "Kigarama"
+  },
+  {
+    "id": "S-03-01",
+    "district_id": "D-03",
+    "name": "Muhoza"
+  },
+  {
+    "id": "S-03-02",
+    "district_id": "D-03",
+    "name": "Cyuve"
+  },
+  {
+    "id": "S-03-03",
+    "district_id": "D-03",
+    "name": "Kinigi"
+  },
+  {
+    "id": "S-04-01",
+    "district_id": "D-04",
+    "name": "Byumba"
+  },
+  {
+    "id": "S-04-02",
+    "district_id": "D-04",
+    "name": "Kageyo"
+  },
+  {
+    "id": "S-04-03",
+    "district_id": "D-04",
+    "name": "Mukarange"
+  },
+  {
+    "id": "S-05-01",
+    "district_id": "D-05",
+    "name": "Ngoma"
+  },
+  {
+    "id": "S-05-02",
+    "district_id": "D-05",
+    "name": "Tumba"
+  },
+  {
+    "id": "S-05-03",
+    "district_id": "D-05",
+    "name": "Huye"
+  },
+  {
+    "id": "S-06-01",
+    "district_id": "D-06",
+    "name": "Nyamabuye"
+  },
+  {
+    "id": "S-06-02",
+    "district_id": "D-06",
+    "name": "Shyogwe"
+  },
+  {
+    "id": "S-06-03",
+    "district_id": "D-06",
+    "name": "Cyeza"
+  },
+  {
+    "id": "S-07-01",
+    "district_id": "D-07",
+    "name": "Kigabiro"
+  },
+  {
+    "id": "S-07-02",
+    "district_id": "D-07",
+    "name": "Muhazi"
+  },
+  {
+    "id": "S-07-03",
+    "district_id": "D-07",
+    "name": "Muyumbu"
+  },
+  {
+    "id": "S-08-01",
+    "district_id": "D-08",
+    "name": "Nyagatare"
+  },
+  {
+    "id": "S-08-02",
+    "district_id": "D-08",
+    "name": "Karama"
+  },
+  {
+    "id": "S-08-03",
+    "district_id": "D-08",
+    "name": "Rukomo"
+  },
+  {
+    "id": "S-09-01",
+    "district_id": "D-09",
+    "name": "Gisenyi"
+  },
+  {
+    "id": "S-09-02",
+    "district_id": "D-09",
+    "name": "Rubavu"
+  },
+  {
+    "id": "S-09-03",
+    "district_id": "D-09",
+    "name": "Nyamyumba"
+  },
+  {
+    "id": "S-10-01",
+    "district_id": "D-10",
+    "name": "Kamembe"
+  },
+  {
+    "id": "S-10-02",
+    "district_id": "D-10",
+    "name": "Gihundwe"
+  },
+  {
+    "id": "S-10-03",
+    "district_id": "D-10",
+    "name": "Mururu"
+  }
+]

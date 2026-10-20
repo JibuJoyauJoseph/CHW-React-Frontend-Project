@@ -1,0 +1,1 @@
+import {pool} from './db.js'; export async function audit(userId,action,resource,resourceId,description){await pool.query('INSERT INTO audit_logs (id,timestamp,user_id,action,resource,resource_id,description) VALUES (?,?,?,?,?,?,?)',[`AUD-${Date.now()}-${Math.floor(Math.random()*1000)}`,new Date(),userId,action,resource,resourceId||null,description||''])}

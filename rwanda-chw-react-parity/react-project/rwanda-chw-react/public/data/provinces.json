@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P-01",
+    "name": "Kigali City"
+  },
+  {
+    "id": "P-02",
+    "name": "Northern Province"
+  },
+  {
+    "id": "P-03",
+    "name": "Southern Province"
+  },
+  {
+    "id": "P-04",
+    "name": "Eastern Province"
+  },
+  {
+    "id": "P-05",
+    "name": "Western Province"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "C-01-01-01",
+    "sector_id": "S-01-01",
+    "name": "Kimironko Cell 1"
+  },
+  {
+    "id": "C-01-01-02",
+    "sector_id": "S-01-01",
+    "name": "Kimironko Cell 2"
+  },
+  {
+    "id": "C-01-02-01",
+    "sector_id": "S-01-02",
+    "name": "Remera Cell 1"
+  },
+  {
+    "id": "C-01-02-02",
+    "sector_id": "S-01-02",
+    "name": "Remera Cell 2"
+  },
+  {
+    "id": "C-01-03-01",
+    "sector_id": "S-01-03",
+    "name": "Kacyiru Cell 1"
+  },
+  {
+    "id": "C-01-03-02",
+    "sector_id": "S-01-03",
+    "name": "Kacyiru Cell 2"
+  },
+  {
+    "id": "C-02-01-01",
+    "sector_id": "S-02-01",
+    "name": "Nyarugenge Cell 1"
+  },
+  {
+    "id": "C-02-01-02",
+    "sector_id": "S-02-01",
+    "name": "Nyarugenge Cell 2"
+  },
+  {
+    "id": "C-02-02-01",
+    "sector_id": "S-02-02",
+    "name": "Gikondo Cell 1"
+  },
+  {
+    "id": "C-02-02-02",
+    "sector_id": "S-02-02",
+    "name": "Gikondo Cell 2"
+  },
+  {
+    "id": "C-02-03-01",
+    "sector_id": "S-02-03",
+    "name": "Kigarama Cell 1"
+  },
+  {
+    "id": "C-02-03-02",
+    "sector_id": "S-02-03",
+    "name": "Kigarama Cell 2"
+  },
+  {
+    "id": "C-03-01-01",
+    "sector_id": "S-03-01",
+    "name": "Muhoza Cell 1"
+  },
+  {
+    "id": "C-03-01-02",
+    "sector_id": "S-03-01",
+    "name": "Muhoza Cell 2"
+  },
+  {
+    "id": "C-03-02-01",
+    "sector_id": "S-03-02",
+    "name": "Cyuve Cell 1"
+  },
+  {
+    "id": "C-03-02-02",
+    "sector_id": "S-03-02",
+    "name": "Cyuve Cell 2"
+  },
+  {
+    "id": "C-03-03-01",
+    "sector_id": "S-03-03",
+    "name": "Kinigi Cell 1"
+  },
+  {
+    "id": "C-03-03-02",
+    "sector_id": "S-03-03",
+    "name": "Kinigi Cell 2"
+  },
+  {
+    "id": "C-04-01-01",
+    "sector_id": "S-04-01",
+    "name": "Byumba Cell 1"
+  },
+  {
+    "id": "C-04-01-02",
+    "sector_id": "S-04-01",
+    "name": "Byumba Cell 2"
+  },
+  {
+    "id": "C-04-02-01",
+    "sector_id": "S-04-02",
+    "name": "Kageyo Cell 1"
+  },
+  {
+    "id": "C-04-02-02",
+    "sector_id": "S-04-02",
+    "name": "Kageyo Cell 2"
+  },
+  {
+    "id": "C-04-03-01",
+    "sector_id": "S-04-03",
+    "name": "Mukarange Cell 1"
+  },
+  {
+    "id": "C-04-03-02",
+    "sector_id": "S-04-03",
+    "name": "Mukarange Cell 2"
+  },
+  {
+    "id": "C-05-01-01",
+    "sector_id": "S-05-01",
+    "name": "Ngoma Cell 1"
+  },
+  {
+    "id": "C-05-01-02",
+    "sector_id": "S-05-01",
+    "name": "Ngoma Cell 2"
+  },
+  {
+    "id": "C-05-02-01",
+    "sector_id": "S-05-02",
+    "name": "Tumba Cell 1"
+  },
+  {
+    "id": "C-05-02-02",
+    "sector_id": "S-05-02",
+    "name": "Tumba Cell 2"
+  },
+  {
+    "id": "C-05-03-01",
+    "sector_id": "S-05-03",
+    "name": "Huye Cell 1"
+  },
+  {
+    "id": "C-05-03-02",
+    "sector_id": "S-05-03",
+    "name": "Huye Cell 2"
+  },
+  {
+    "id": "C-06-01-01",
+    "sector_id": "S-06-01",
+    "name": "Nyamabuye Cell 1"
+  },
+  {
+    "id": "C-06-01-02",
+    "sector_id": "S-06-01",
+    "name": "Nyamabuye Cell 2"
+  },
+  {
+    "id": "C-06-02-01",
+    "sector_id": "S-06-02",
+    "name": "Shyogwe Cell 1"
+  },
+  {
+    "id": "C-06-02-02",
+    "sector_id": "S-06-02",
+    "name": "Shyogwe Cell 2"
+  },
+  {
+    "id": "C-06-03-01",
+    "sector_id": "S-06-03",
+    "name": "Cyeza Cell 1"
+  },
+  {
+    "id": "C-06-03-02",
+    "sector_id": "S-06-03",
+    "name": "Cyeza Cell 2"
+  },
+  {
+    "id": "C-07-01-01",
+    "sector_id": "S-07-01",
+    "name": "Kigabiro Cell 1"
+  },
+  {
+    "id": "C-07-01-02",
+    "sector_id": "S-07-01",
+    "name": "Kigabiro Cell 2"
+  },
+  {
+    "id": "C-07-02-01",
+    "sector_id": "S-07-02",
+    "name": "Muhazi Cell 1"
+  },
+  {
+    "id": "C-07-02-02",
+    "sector_id": "S-07-02",
+    "name": "Muhazi Cell 2"
+  },
+  {
+    "id": "C-07-03-01",
+    "sector_id": "S-07-03",
+    "name": "Muyumbu Cell 1"
+  },
+  {
+    "id": "C-07-03-02",
+    "sector_id": "S-07-03",
+    "name": "Muyumbu Cell 2"
+  },
+  {
+    "id": "C-08-01-01",
+    "sector_id": "S-08-01",
+    "name": "Nyagatare Cell 1"
+  },
+  {
+    "id": "C-08-01-02",
+    "sector_id": "S-08-01",
+    "name": "Nyagatare Cell 2"
+  },
+  {
+    "id": "C-08-02-01",
+    "sector_id": "S-08-02",
+    "name": "Karama Cell 1"
+  },
+  {
+    "id": "C-08-02-02",
+    "sector_id": "S-08-02",
+    "name": "Karama Cell 2"
+  },
+  {
+    "id": "C-08-03-01",
+    "sector_id": "S-08-03",
+    "name": "Rukomo Cell 1"
+  },
+  {
+    "id": "C-08-03-02",
+    "sector_id": "S-08-03",
+    "name": "Rukomo Cell 2"
+  },
+  {
+    "id": "C-09-01-01",
+    "sector_id": "S-09-01",
+    "name": "Gisenyi Cell 1"
+  },
+  {
+    "id": "C-09-01-02",
+    "sector_id": "S-09-01",
+    "name": "Gisenyi Cell 2"
+  },
+  {
+    "id": "C-09-02-01",
+    "sector_id": "S-09-02",
+    "name": "Rubavu Cell 1"
+  },
+  {
+    "id": "C-09-02-02",
+    "sector_id": "S-09-02",
+    "name": "Rubavu Cell 2"
+  },
+  {
+    "id": "C-09-03-01",
+    "sector_id": "S-09-03",
+    "name": "Nyamyumba Cell 1"
+  },
+  {
+    "id": "C-09-03-02",
+    "sector_id": "S-09-03",
+    "name": "Nyamyumba Cell 2"
+  },
+  {
+    "id": "C-10-01-01",
+    "sector_id": "S-10-01",
+    "name": "Kamembe Cell 1"
+  },
+  {
+    "id": "C-10-01-02",
+    "sector_id": "S-10-01",
+    "name": "Kamembe Cell 2"
+  },
+  {
+    "id": "C-10-02-01",
+    "sector_id": "S-10-02",
+    "name": "Gihundwe Cell 1"
+  },
+  {
+    "id": "C-10-02-02",
+    "sector_id": "S-10-02",
+    "name": "Gihundwe Cell 2"
+  },
+  {
+    "id": "C-10-03-01",
+    "sector_id": "S-10-03",
+    "name": "Mururu Cell 1"
+  },
+  {
+    "id": "C-10-03-02",
+    "sector_id": "S-10-03",
+    "name": "Mururu Cell 2"
+  }
+]

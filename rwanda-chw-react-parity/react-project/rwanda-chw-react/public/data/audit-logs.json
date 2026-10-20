@@ -1,0 +1,32 @@
+[
+  {
+    "id": "AUD-001",
+    "user_id": "USR-005",
+    "action": "Approved Report",
+    "resource": "Report",
+    "resource_id": "RPT-00001",
+    "timestamp": "2026-10-01T10:32:00",
+    "ip": "DEMO",
+    "description": "Monthly CHW report approved."
+  },
+  {
+    "id": "AUD-002",
+    "user_id": "USR-006",
+    "action": "Submitted Report",
+    "resource": "Report",
+    "resource_id": "RPT-00009",
+    "timestamp": "2026-10-02T09:12:00",
+    "ip": "DEMO",
+    "description": "Monthly report submitted for review."
+  },
+  {
+    "id": "AUD-003",
+    "user_id": "USR-001",
+    "action": "Data import",
+    "resource": "Seed JSON",
+    "resource_id": "IMPORT-001",
+    "timestamp": "2026-10-03T14:20:00",
+    "ip": "DEMO",
+    "description": "Demo data imported in prototype mode."
+  }
+]

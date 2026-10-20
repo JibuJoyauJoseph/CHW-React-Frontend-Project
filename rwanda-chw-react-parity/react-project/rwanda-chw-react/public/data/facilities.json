@@ -1,0 +1,26 @@
+[
+  {
+    "id": "FAC-001",
+    "name": "Demo Health Centre",
+    "district_id": "D-01",
+    "sector_id": "S-01-01",
+    "type": "Health Centre",
+    "status": "active"
+  },
+  {
+    "id": "FAC-002",
+    "name": "Kimironko Demo Clinic",
+    "district_id": "D-01",
+    "sector_id": "S-01-02",
+    "type": "Clinic",
+    "status": "active"
+  },
+  {
+    "id": "FAC-003",
+    "name": "Musanze Demo Health Centre",
+    "district_id": "D-03",
+    "sector_id": "S-03-01",
+    "type": "Health Centre",
+    "status": "active"
+  }
+]
